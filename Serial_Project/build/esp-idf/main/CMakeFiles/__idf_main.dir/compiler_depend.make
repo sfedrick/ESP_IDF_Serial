@@ -105,8 +105,18 @@ esp-idf/main/CMakeFiles/__idf_main.dir/Serial_Project.c.obj: ../main/Serial_Proj
   /home/esp-idf/components/freertos/FreeRTOS-Kernel/include/freertos/list.h \
   /home/esp-idf/components/log/include/esp_log.h \
   /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/inttypes.h \
-  /home/esp-idf/components/log/include/esp_log_internal.h
+  /home/esp-idf/components/log/include/esp_log_internal.h \
+  /home/esp-idf/components/driver/include/driver/gpio.h \
+  /home/esp-idf/components/hal/include/hal/gpio_types.h \
+  /home/esp-idf/components/esp_rom/include/esp_rom_gpio.h \
+  /home/esp-idf/components/soc/esp32/include/soc/gpio_pins.h
 
+
+/home/esp-idf/components/esp_rom/include/esp_rom_gpio.h:
+
+/home/esp-idf/components/hal/include/hal/gpio_types.h:
+
+/home/esp-idf/components/driver/include/driver/gpio.h:
 
 /home/esp-idf/components/freertos/FreeRTOS-Kernel/include/freertos/list.h:
 
@@ -201,6 +211,8 @@ config/sdkconfig.h:
 /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/_types.h:
 
 /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/lock.h:
+
+/home/esp-idf/components/soc/esp32/include/soc/gpio_pins.h:
 
 /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/machine/ieeefp.h:
 
