@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/CMakeFiles/bootloader
+/home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/CMakeFiles/bootloader.rule
+/home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/CMakeFiles/bootloader-complete.rule
+/home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

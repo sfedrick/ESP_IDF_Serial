@@ -1,0 +1,25 @@
+esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/port/arch/xtensa/debug_stubs.c.obj: \
+ /home/esp-idf/components/esp_system/port/arch/xtensa/debug_stubs.c \
+ /home/esp-idf/components/xtensa/include/eri.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/11.2.0/include/stdint.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/stdint.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/machine/_default_types.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/features.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/_newlib_version.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/_intsup.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/_stdint.h \
+ /home/esp-idf/components/xtensa/include/xtensa-debug-module.h \
+ /home/esp-idf/components/xtensa/esp32/include/xtensa/config/core-isa.h \
+ /home/esp-idf/components/log/include/esp_log.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/11.2.0/include/stdarg.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/inttypes.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/newlib.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/config.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/machine/ieeefp.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/_ansi.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/11.2.0/include/stddef.h \
+ /root/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/xtensa-esp32-elf/sys-include/sys/_locale.h \
+ /home/local_storage/Esp_32_Projects/Serial_out/Serial_Project/build/config/sdkconfig.h \
+ /home/esp-idf/components/esp_rom/include/esp_rom_sys.h \
+ /home/esp-idf/components/soc/esp32/include/soc/reset_reasons.h \
+ /home/esp-idf/components/log/include/esp_log_internal.h
